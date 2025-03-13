@@ -1,8 +1,8 @@
-# 📰 React News App
+# React News App
 
 A simple React-based news application using Vite, TypeScript, i18next for translations, and tested with Vitest & React Testing Library.
 
-## 🚀 Features
+## Features
 
 - Fetch top news and search news using `NewsService`
 - Supports language switching (`English` & `Chinese`)
@@ -12,9 +12,9 @@ A simple React-based news application using Vite, TypeScript, i18next for transl
 
 ---
 
-## 📦 Installation
+## Installation
 
-### 1️⃣ Clone this repository
+### Clone this repository
 
 ```sh
 git clone https://github.com/bbeer674/NewsApp.git
