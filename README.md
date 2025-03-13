@@ -20,3 +20,17 @@ A simple React-based news application using Vite, TypeScript, i18next for transl
 git clone https://github.com/bbeer674/NewsApp.git
 cd react-news-app
 ```
+```sh
+npm install
+npm run dev
+```
+
+## Running Tests
+```sh
+npx vitest
+```
+## Tech Stack
+- Frontend: React, Vite, TypeScript, Tailwind CSS
+- State Management: React Hooks
+- Translation: i18next
+- Testing: Vitest, React Testing Library
